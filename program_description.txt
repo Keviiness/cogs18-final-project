@@ -1,0 +1,16 @@
+Kevin Ing
+A15395306
+
+Description:
+
+For this project I chose to code the card game of Blackjack!
+
+The objective of the game is to obtain the number value of 21 or close to 21 as possible. If your total valuation goes over 21 you automatically lose. In the beginning of the game you are dealt two cards from a standard deck of 52 cards. In this variation of the game you will only be against the opposing dealer which will also be dealt two cards. You win the game if you obtain the exact value of 21 or outscore the opposing dealer such that your cards dont go over the cap of 21. You also win the game if the opposing dealer goes over 21, this is known as a "bust". The face cards, "Jack", "Queen", and "King" have a value of 10 while the "Ace" has a value of either 11 or 1 depending on your total. 
+
+After being initially dealt the two cards, you have three options, "Hit", "Stand", or "Quit" 
+
+Hit - If you choose to hit this means you will be dealt one more additonal card from the deck that will add to your total, if your hit causes you to go over 21 however you lose!
+
+Stand - If you feel confident in your current total, choosing stand will end your turn, locking in your current total to go against the dealer's total
+
+Quit - This exits the game
